@@ -23,7 +23,7 @@ export const projects = [
       'Full-Stack Developer Crafting Modern, Responsive Web Experiences with MERN Stack & Tailwind CSS',
     image: 'https://res.cloudinary.com/dd08vrafn/image/upload/v1766858284/home_raaw41.png',
     tags: ['Ract.js', 'JavaScript', 'Tailwind', 'Cloudinary'],
-    live: 'https://imagegen.yourname.dev',
-    github: 'https://github.com/yourusername/ai-image-gen',
+    live: 'https://6950ca5ee05f92af01d1afae--hostportfoliosite.netlify.app/',
+    github: 'https://github.com/avishkarbhasme/AvishkarPortfolio.git',
   },
 ];
