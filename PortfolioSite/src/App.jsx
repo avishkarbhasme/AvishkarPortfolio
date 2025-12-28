@@ -26,7 +26,7 @@ function App() {
         className="h-8 w-8 md:h-9 md:w-9 rounded-full object-cover border-2 border-indigo-500/30 shadow-md shadow-indigo-500/10"
       />
       <span className="text-2xl font-bold bg-gradient-to-r from-indigo-400 to-purple-500 bg-clip-text text-transparent">
-        AVISHKAR
+        PORTFOLIO
       </span>
     </a>
 
